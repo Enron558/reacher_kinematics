@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../PlatformIO/Projects/Test1"
+		},
+		{
+			"name": "independent-study-lab1",
+			"path": "../independent-study-lab1"
+		}
+	],
+	"settings": {}
+}
